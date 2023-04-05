@@ -1,2 +1,2 @@
-# HTML-CSS-Template-One-MJ
+# Template-One
 HTML &amp; CSS DESGIN ONE
